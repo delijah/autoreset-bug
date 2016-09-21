@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"folder_exclude_patterns":
+			[
+				"node_modules",
+				"dist",
+                ".happypack",
+				"bower_components",
+				"test/bower_components",
+				"vendor/ckeditor"
+			],
+			"path": "."
+		}
+	]
+}
